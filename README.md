@@ -1,3 +1,3 @@
-# angular-pe6s4m
+# angular-start
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-pe6s4m)
+[Angular start](https://github.com/robinniel/angular-start)
